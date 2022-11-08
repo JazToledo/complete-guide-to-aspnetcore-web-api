@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDsBHcDcb7HjrW2R3hs8Do6Q6z5n7aJOPGf27B8+t1xlU9pF77orG/6WAmdm2Xfl4KEVkbpXpiBcP48HtjHVzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juanjo\\source\\repos\\Libreria_PJTV\\Libreria_PJTV\\Libreria_PJTV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanjo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\juanjo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
